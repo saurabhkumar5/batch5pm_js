@@ -53,12 +53,15 @@
 
 
 
-        let a = 10;  //number
+        // let a = 10;  //number
         // let b = 10;
-        let b = '10'; //string
+        // let b = '10'; //string
         // let c = b;
         // console.log(a=b);
 
         // console.log(a==b) //only check value
 
-        console.log(a===b)
+        // console.log(a===b)
+
+
+        // console.log('a'<'A')
